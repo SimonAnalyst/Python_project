@@ -22,7 +22,7 @@ By analyzing sales metrics such as total spend, units sold, and average weekly b
 Through this analysis, we seek to provide actionable recommendations to retailers on how to optimize their promotional strategies, enhance store performance, and ultimately drive revenue growth.
 
 
-The entire analysis is available in the file.
+The entire analysis is available in the [file](https://github.com/SimonAnalyst/Python_project/blob/main/Retail%20Sales%20Analysis.ipynb).
 
 
 
