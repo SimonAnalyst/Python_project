@@ -5,7 +5,7 @@
 - **Author:** Szymon Swiezy
 - **Email:** szymon.swiezy1@gmail.com
 - **Website:** www.datascienceportfol.io/szymonswiezy
-- **LinkedIn:** www.linkedin.com/in/szymon-świeży
+- **LinkedIn:** www.linkedin.com/in/szymon-swiezy
 
 
 The objective of this project is to analyze sales and promotional data from a sampling of stores over a period of 156 weeks, spanning from January 2009 to December 2011. The data includes various metrics related to sales, promotions, and store characteristics.
